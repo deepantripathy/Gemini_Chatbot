@@ -30,6 +30,7 @@ Install vertex ai and streamlit
     </ul>
   </li>
 </ul>
-Run gemini_explorer.py byt using command streamlit run gemini_explorer.py
+
+
 
 ##
